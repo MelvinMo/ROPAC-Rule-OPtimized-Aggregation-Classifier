@@ -2,7 +2,7 @@
 
 [Melvin Mokhtari](https://melmo.ir/), [Alireza Basiri](https://basiri.iut.ac.ir/)
 
-Published in: Expert Systems with Applications
+Published in: [Expert Systems with Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications)
 
 *H. Li, X. J. Wu, “DenseFuse: A Fusion Approach to Infrared and Visible Images,” IEEE Trans. Image Process., vol. 28, no. 5, pp. 2614–2623, May. 2019.*
 
@@ -19,6 +19,10 @@ Published in: Expert Systems with Applications
 
 # Citation
 If you found this work helpful, please **star🌟** this repository and **cite📑** our paper. Thank you for your support!
+
+```APA style
+H. Li, X. J. Wu, “DenseFuse: A Fusion Approach to Infrared and Visible Images,” IEEE Trans. Image Process., vol. 28, no. 5, pp. 2614–2623, May 2019
+```
 
 ```bibtex
 @Article{Basiri2019,
@@ -37,10 +41,6 @@ If you found this work helpful, please **star🌟** this repository and **cite�
   doi="10.1007/s00521-017-3117-2",
   url="https://doi.org/10.1007/s00521-017-3117-2"
 }
-```
-
-```APA style
-H. Li, X. J. Wu, “DenseFuse: A Fusion Approach to Infrared and Visible Images,” IEEE Trans. Image Process., vol. 28, no. 5, pp. 2614–2623, May 2019
 ```
 
 The code and data are also available in Code Ocean capsule with the DOI (https://doi.org/10.24433/CO.7399708.v2) under MIT license and Attribution (CC BY) respectively.

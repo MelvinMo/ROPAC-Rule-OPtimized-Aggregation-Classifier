@@ -43,7 +43,7 @@ H. Li, X. J. Wu, “DenseFuse: A Fusion Approach to Infrared and Visible Images,
 }
 ```
 
-The code and data are also available in Code Ocean capsule with the [![DOI](https://doi.org/10.24433/CO.7399708.v2) under MIT license and Attribution (CC BY) respectively.
+The code and data are also available in Code Ocean capsule with the [![DOI](https://img.shields.io/badge/DOI-10.24433/CO.7399708.v2-blue)](https://doi.org/10.24433/CO.7399708.v2) under MIT license and Attribution (CC BY) respectively.
 
 
 ## Contact

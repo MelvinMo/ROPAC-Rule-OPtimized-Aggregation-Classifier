@@ -7,6 +7,7 @@
 **Paper can be found at:**
 - [Elsevier]()
 - [ResearchGate]()
+- [![DOI](https://img.shields.io/badge/DOI-10.24433/CO.7399708.v2-blue)](https://doi.org/10.24433/CO.7399708.v2)
 
 **Code and data can also be accessed at:**
 - <a href="https://colab.research.google.com/drive/1KrBPTdyYXqQqEslnS5UJ1oKho8sDfODJ?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="google colab logo"></a>
@@ -43,7 +44,7 @@ H. Li, X. J. Wu, “DenseFuse: A Fusion Approach to Infrared and Visible Images,
 }
 ```
 
-The code and data are also available in [Code Ocean capsule](https://codeocean.com/capsule/2356040/tree) with the [![DOI](https://img.shields.io/badge/DOI-10.24433/CO.7399708.v2-blue)](https://doi.org/10.24433/CO.7399708.v2) under MIT license and Attribution (CC BY) respectively. The code is also executable on [Colab](https://colab.research.google.com/drive/1KrBPTdyYXqQqEslnS5UJ1oKho8sDfODJ?usp=sharing).
+The code and data are also available in [this Code Ocean capsule](https://codeocean.com/capsule/2356040/tree) with the [DOI](https://doi.org/10.24433/CO.7399708.v2) under [MIT license](https://opensource.org/license/mit) and [Attribution (CC BY)](https://creativecommons.org/licenses/by/4.0/) respectively. The code is also executable on [Colab](https://colab.research.google.com/drive/1KrBPTdyYXqQqEslnS5UJ1oKho8sDfODJ?usp=sharing).
 
 ## Contact
 If you have any questions about this repository, wish to request a feature or make a contribution, please open a [GitHub issue](https://github.com/MelvinMo/ROPAC-Rule-OPtimized-Aggregation-Classifier/issues), or feel free to contact [melvmok@gmail.com](mailto:melvmok@gmail.com).

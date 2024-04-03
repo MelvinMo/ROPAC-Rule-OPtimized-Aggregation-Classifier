@@ -14,7 +14,7 @@ Published in: Expert Systems with Applications
 ### The flow diagram of ROPAC
 ![](https://github.com/hli1221/imagefusion_densefuse/blob/master/figures/framework.png)
 
-If you have any question about this code or you would like to request a feature or contributaion, feel free to reach me at (melvmok@gmail.com) or [create a new issue](https://github.com/Adversarian/RACER/issues).
+If you have any question about this code or you would like to request a feature or contributaion, feel free to open a [GitHub issue](https://github.com/Adversarian/RACER/issues) or reach me at (mailto:melvmok@gmail.com).
 
 # Citation
 

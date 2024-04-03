@@ -43,7 +43,7 @@ If you found this work helpful, please **star🌟** this repository and **cite�
 H. Li, X. J. Wu, “DenseFuse: A Fusion Approach to Infrared and Visible Images,” IEEE Trans. Image Process., vol. 28, no. 5, pp. 2614–2623, May 2019
 ```
 
-The code and data are also available in Code Ocean capsule with the DOI (http://dx.doi.org/10.24433/CO.5061127.v1) under MIT license and Attribution (CC BY) respectively.
+The code and data are also available in Code Ocean capsule with the DOI (https://doi.org/10.24433/CO.7399708.v2) under MIT license and Attribution (CC BY) respectively.
 
 ## Contact
 If you have any questions about this code, wish to request a feature or make a contribution, please open a [GitHub issue](https://github.com/MelvinMo/ROPAC-Rule-OPtimized-Aggregation-Classifier/issues), or feel free to contact [melvmok@gmail.com](mailto:melvmok@gmail.com).

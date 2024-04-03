@@ -39,7 +39,7 @@ If you found this work useful, please **starðŸŒŸ** this repository and **citeðŸ“
 }
 ```
 
-The code and data are also available in Code Ocean capsule with [this DOI] [http://dx.doi.org/10.24433/CO.5061127.v1] under MIT license and Attribution (CC BY) respectively.
+The code and data are also available in Code Ocean capsule with [this DOI](http://dx.doi.org/10.24433/CO.5061127.v1) under MIT license and Attribution (CC BY) respectively.
 
 ## Contact
-If you have any question about this code or you would like to request a feature or contributaion, please open a [GitHub issue](https://github.com/MelvinMo/ROPAC-Rule-OPtimized-Aggregation-Classifier/issues), or feel free to contact (mailto:melvmok@gmail.com).
+If you have any question about this code or you would like to request a feature or contributaion, please open a [GitHub issue](https://github.com/MelvinMo/ROPAC-Rule-OPtimized-Aggregation-Classifier/issues), or feel free to contact [melvmok@gmail.com](mailto:melvmok@gmail.com).

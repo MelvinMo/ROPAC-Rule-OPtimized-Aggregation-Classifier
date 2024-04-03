@@ -18,7 +18,7 @@
 
 ![](https://github.com/MelvinMo/ROPAC-Rule-OPtimized-Aggregation-Classifier/blob/main/ROPAC_FlowDiagram.png)
 
-# Citation
+## Citation
 If you found this work helpful, please **star🌟** this repository and **cite📑** our paper. Thank you for your support!
 
 ```APA style

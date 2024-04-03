@@ -13,7 +13,7 @@ Published in: Expert Systems with Applications
 ## Abstract
 **R**ule **OP**timized **A**ggregation **C**lassifier (ROPAC) is a novel rule-based classifier that is introduced in two variants, ROPAC-L and ROPAC-M, to expand search space exploration and achieve better classification accuracy. This algorithm was evaluated on 50 diverse datasets, comparing accuracy with 15 famous algorithms, including ForestPA, LMT, MLP of Neural Networks, Random Forest, Optimized Forest, SPAARC, RACER, Bootstrap Aggregation (Bagging), C4.5, PART, the JRip implementation of RIPPER, SMO in SVM, Decision Tree (CART), IBk implementation of KNN, and Naïve Bayes. The experiments confirmed ROPAC-L as the most accurate, leading classifier.
 
-<img src="https://github.com/MelvinMo/ROPAC-Rule-OPtimized-Aggregation-Classifier/blob/main/ROPAC_FlowDiagram.png" alt="ROPAC Flow Diagram" style="width: 75%;">
+![](https://github.com/MelvinMo/ROPAC-Rule-OPtimized-Aggregation-Classifier/blob/main/ROPAC_FlowDiagram.png)
 
 # Citation
 If you found this work helpful, please **star🌟** this repository and **cite📑** our paper. Thank you for your support!

@@ -1,6 +1,6 @@
 # ROPAC: **R**ule **OP**timized **A**ggregation **C**lassifier
 
-[Melvin Mokhtari](https://melmo.ir/), Alireza Basiri(https://basiri.iut.ac.ir/)
+[Melvin Mokhtari](https://melmo.ir/), [Alireza Basiri](https://basiri.iut.ac.ir/)
 Published in: Expert Systems with Applications
 
 *H. Li, X. J. Wu, “DenseFuse: A Fusion Approach to Infrared and Visible Images,” IEEE Trans. Image Process., vol. 28, no. 5, pp. 2614–2623, May. 2019.*
@@ -38,7 +38,7 @@ If you found this work useful, please **star🌟** this repository and **cite�
 }
 ```
 
-The code and data are also available in Code Ocean capsule with [DOI] [http://dx.doi.org/10.24433/CO.5061127.v1] under MIT license and Attribution (CC BY) respectively.
+The code and data are also available in Code Ocean capsule with [this DOI] [http://dx.doi.org/10.24433/CO.5061127.v1] under MIT license and Attribution (CC BY) respectively.
 
 ## Contact
-If you have any question about this code or you would like to request a feature or contributaion, please open a [GitHub issue](https://github.com/Adversarian/RACER/issues), or feel free to contact (mailto:melvmok@gmail.com).
+If you have any question about this code or you would like to request a feature or contributaion, please open a [GitHub issue](https://github.com/MelvinMo/ROPAC-Rule-OPtimized-Aggregation-Classifier/issues), or feel free to contact (mailto:melvmok@gmail.com).

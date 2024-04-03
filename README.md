@@ -8,6 +8,9 @@ Published in: [Expert Systems with Applications](https://www.sciencedirect.com/j
 
 <a href="https://colab.research.google.com/drive/1KrBPTdyYXqQqEslnS5UJ1oKho8sDfODJ?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="google colab logo"></a>
 
+<script src="https://codeocean.com/widget.js?slug=2356040" async></script>
+
+
 - [Elsevier]()
 - [ResearchGate]()
 - [DOI]()

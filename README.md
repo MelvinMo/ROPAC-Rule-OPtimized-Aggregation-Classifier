@@ -7,12 +7,10 @@
 **Citation:** H. Li, X. J. Wu, “DenseFuse: A Fusion Approach to Infrared and Visible Images,” IEEE Trans. Image Process., vol. 28, no. 5, pp. 2614–2623, May. 2019.
 
 **Paper can be found at:**
-[![Elsevier](elsevier_logo.png)](https://www.elsevier.com/)
-
 - [Elsevier]()
 - [ResearchGate]()
 
-**Code and data can be accessed at:**
+**Code and data can also be accessed at:**
 - <a href="https://colab.research.google.com/drive/1KrBPTdyYXqQqEslnS5UJ1oKho8sDfODJ?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="google colab logo"></a>
 - [![Open in Code Ocean](https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg)](https://codeocean.com/capsule/2356040/tree)
 

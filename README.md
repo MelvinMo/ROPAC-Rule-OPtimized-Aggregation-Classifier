@@ -14,9 +14,9 @@ Published in: Expert Systems with Applications
 ### The flow diagram of ROPAC
 ![](https://github.com/hli1221/imagefusion_densefuse/blob/master/figures/framework.png)
 
-If you have any question about this code or you would like to request a feature or contributaion, feel free to open a [GitHub issue](https://github.com/Adversarian/RACER/issues) or reach me at (mailto:melvmok@gmail.com).
-
 # Citation
+
+If you find this work helpful, please **star🌟** this repo and **cite📑** our paper. Thanks for your support!
 
  *H. Li, X. J. Wu, “DenseFuse: A Fusion Approach to Infrared and Visible Images,” IEEE Trans. Image Process., vol. 28, no. 5, pp. 2614–2623, May 2019.*
 
@@ -34,4 +34,7 @@ If you have any question about this code or you would like to request a feature 
 }
 ```
 
-# The code and data are also available at [Code Ocean](https://github.com/hli1221/densefuse-pytorch) [![DOI](https://zenodo.org/badge/656323287.svg)](https://zenodo.org/badge/latestdoi/656323287)
+The code and data are also available at [Code Ocean](https://github.com/hli1221/densefuse-pytorch) [![DOI](https://zenodo.org/badge/656323287.svg)](https://zenodo.org/badge/latestdoi/656323287)
+
+## Contact
+If you have any question about this code or you would like to request a feature or contributaion, please open a [GitHub issue](https://github.com/Adversarian/RACER/issues), or feel free to contact (mailto:melvmok@gmail.com).

@@ -18,10 +18,6 @@ Published in: Expert Systems with Applications
 # Citation
 If you found this work helpful, please **star🌟** this repository and **cite📑** our paper. Thank you for your support!
 
-```APA style
-H. Li, X. J. Wu, “DenseFuse: A Fusion Approach to Infrared and Visible Images,” IEEE Trans. Image Process., vol. 28, no. 5, pp. 2614–2623, May 2019
-```
-
 ```bibtex
 @Article{Basiri2019,
   author="Basiri, Javad
@@ -41,7 +37,11 @@ H. Li, X. J. Wu, “DenseFuse: A Fusion Approach to Infrared and Visible Images,
 }
 ```
 
+```APA style
+H. Li, X. J. Wu, “DenseFuse: A Fusion Approach to Infrared and Visible Images,” IEEE Trans. Image Process., vol. 28, no. 5, pp. 2614–2623, May 2019
+```
+
 The code and data are also available in Code Ocean capsule with the DOI (http://dx.doi.org/10.24433/CO.5061127.v1) under MIT license and Attribution (CC BY) respectively.
 
 ## Contact
-If you have any question about this code or you would like to request a feature or contributaion, please open a [GitHub issue](https://github.com/MelvinMo/ROPAC-Rule-OPtimized-Aggregation-Classifier/issues), or feel free to contact [melvmok@gmail.com](mailto:melvmok@gmail.com).
+If you have any questions about this code, wish to request a feature or make a contribution, please open a [GitHub issue](https://github.com/MelvinMo/ROPAC-Rule-OPtimized-Aggregation-Classifier/issues), or feel free to contact [melvmok@gmail.com](mailto:melvmok@gmail.com).

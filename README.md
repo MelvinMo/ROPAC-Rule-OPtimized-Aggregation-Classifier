@@ -4,8 +4,6 @@
 
 Published in: [Expert Systems with Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications)
 
-Cite as:
-
 *H. Li, X. J. Wu, “DenseFuse: A Fusion Approach to Infrared and Visible Images,” IEEE Trans. Image Process., vol. 28, no. 5, pp. 2614–2623, May. 2019.*
 
 <a href="https://colab.research.google.com/drive/1KrBPTdyYXqQqEslnS5UJ1oKho8sDfODJ?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="google colab logo"></a>, [![Open in Code Ocean](https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg)](https://codeocean.com/capsule/2356040/tree)
@@ -45,7 +43,7 @@ H. Li, X. J. Wu, “DenseFuse: A Fusion Approach to Infrared and Visible Images,
 }
 ```
 
-The code and data are also available in Code Ocean capsule with the [![DOI](https://doi.org/10.24433/CO.7399708.v2)](https://doi.org/10.24433/CO.7399708.v2) under MIT license and Attribution (CC BY) respectively.
+The code and data are also available in Code Ocean capsule with the [![DOI](https://doi.org/10.24433/CO.7399708.v2) under MIT license and Attribution (CC BY) respectively.
 
 
 ## Contact

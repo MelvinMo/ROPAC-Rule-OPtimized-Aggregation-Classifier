@@ -6,12 +6,13 @@
 
 **Paper can be found at:**
 - [Elsevier]()
-- [ResearchGate]()
 - [![DOI](https://img.shields.io/badge/DOI-10.24433/CO.7399708.v2-blue)](https://doi.org/10.24433/CO.7399708.v2)
 
 **Code and data can also be accessed at:**
 - <a href="https://colab.research.google.com/drive/1KrBPTdyYXqQqEslnS5UJ1oKho8sDfODJ?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="google colab logo"></a>
 - [![Open in Code Ocean](https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg)](https://codeocean.com/capsule/2356040/tree)
+- [![DOI](https://img.shields.io/badge/DOI-10.24433/CO.7399708.v2-blue)](https://doi.org/10.24433/CO.7399708.v2)
+- Locally in this GitHub repository
 
 ## Abstract
 **R**ule **OP**timized **A**ggregation **C**lassifier (ROPAC) is a novel rule-based classifier that is introduced in two variants, ROPAC-L and ROPAC-M, to expand search space exploration and achieve better classification accuracy. This algorithm was evaluated on 50 diverse datasets, comparing accuracy with 15 famous algorithms, including ForestPA, LMT, MLP of Neural Networks, Random Forest, Optimized Forest, SPAARC, RACER, Bootstrap Aggregation (Bagging), C4.5, PART, the JRip implementation of RIPPER, SMO in SVM, Decision Tree (CART), IBk implementation of KNN, and Naïve Bayes. The experiments confirmed ROPAC-L as the most accurate, leading classifier.
@@ -43,8 +44,6 @@ H. Li, X. J. Wu, “DenseFuse: A Fusion Approach to Infrared and Visible Images,
   url="https://doi.org/10.1007/s00521-017-3117-2"
 }
 ```
-
-The code and data are also available in a Code Ocean capsule with this [DOI](https://doi.org/10.24433/CO.7399708.v2) under [MIT license](https://opensource.org/license/mit) and [Attribution (CC BY)](https://creativecommons.org/licenses/by/4.0/) respectively. The code is also executable on [Colab](https://colab.research.google.com/drive/1KrBPTdyYXqQqEslnS5UJ1oKho8sDfODJ?usp=sharing).
 
 ## Contact
 If you have any questions about this repository, wish to request a feature or make a contribution, please open a [GitHub issue](https://github.com/MelvinMo/ROPAC-Rule-OPtimized-Aggregation-Classifier/issues), or feel free to contact [melvmok@gmail.com](mailto:melvmok@gmail.com).

@@ -27,6 +27,17 @@ H. Li, X. J. Wu, “DenseFuse: A Fusion Approach to Infrared and Visible Images,
 ```
 
 ```bibtex
+@Article{MelvinMokhtari2024,
+title = {ROPAC: Rule OPtimized Aggregation Classifier},
+journal = {Expert Systems with Applications},
+pages = {123897},
+year = {2024},
+issn = {0957-4174},
+doi = {https://doi.org/10.1016/j.eswa.2024.123897},
+url = {https://www.sciencedirect.com/science/article/pii/S0957417424007632},
+author = {Melvin Mokhtari and Alireza Basiri}
+}
+
 @Article{Basiri2019,
   author="Basiri, Javad
   and Taghiyareh, Fattaneh

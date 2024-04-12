@@ -5,7 +5,7 @@
 **Published in:** [Expert Systems with Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications), September 2024
 
 **Paper can be found at:**
-- [Elsevier](https://www.sciencedirect.com/science/article/abs/pii/S0957417424007632?via%3Dihub)
+- [ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0957417424007632?via%3Dihub)
 - [![DOI](https://img.shields.io/badge/DOI-10.1016/j.eswa.2024.123897-blue)](https://doi.org/10.1016/j.eswa.2024.123897)
 
 **Code and data can also be accessed at:**

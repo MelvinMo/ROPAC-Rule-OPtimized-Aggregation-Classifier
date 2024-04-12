@@ -2,7 +2,7 @@
 
 **Authors:** [Melvin Mokhtari](https://melmo.ir/), [Alireza Basiri](https://basiri.iut.ac.ir/)
 
-**Published in:** [Expert Systems with Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications), April 2024
+**Published in:** [Expert Systems with Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications), September 2024
 
 **Paper can be found at:**
 - [Elsevier](https://www.sciencedirect.com/science/article/abs/pii/S0957417424007632?via%3Dihub)
@@ -22,37 +22,27 @@
 ## Citation
 If you found this work helpful, please **star🌟** this repository and **cite📑** our paper. Thank you for your support!
 
-```APA style
-H. Li, X. J. Wu, “DenseFuse: A Fusion Approach to Infrared and Visible Images,” IEEE Trans. Image Process., vol. 28, no. 5, pp. 2614–2623, May 2019
+```APA
+Mokhtari, M., & Basiri, A. (2024). ROPAC: Rule OPtimized Aggregation Classifier. Expert Systems with Applications, 123897.
+```
+```MLA
+Mokhtari, Melvin, and Alireza Basiri. "ROPAC: Rule OPtimized Aggregation Classifier." Expert Systems with Applications (2024): 123897.
 ```
 
-```bibtex
-@Article{MelvinMokhtari2024,
-title = {ROPAC: Rule OPtimized Aggregation Classifier},
-journal = {Expert Systems with Applications},
-pages = {123897},
-year = {2024},
-issn = {0957-4174},
-doi = {https://doi.org/10.1016/j.eswa.2024.123897},
-url = {https://www.sciencedirect.com/science/article/pii/S0957417424007632},
-author = {Melvin Mokhtari and Alireza Basiri}
-}
-
-@Article{Basiri2019,
-  author="Basiri, Javad
-  and Taghiyareh, Fattaneh
-  and Faili, Heshaam",
-  title="RACER: accurate and efficient classification based on rule aggregation approach",
-  journal="Neural Computing and Applications",
-  year="2019",
-  month="Mar",
-  day="01",
-  volume="31",
-  number="3",
-  pages="895--908",
-  issn="1433-3058",
-  doi="10.1007/s00521-017-3117-2",
-  url="https://doi.org/10.1007/s00521-017-3117-2"
+```BibTeX
+@Article{mokhtari2024ropac,
+  title={ROPAC: Rule OPtimized Aggregation Classifier},
+  author={Mokhtari, Melvin and Basiri, Alireza},
+  journal={Expert Systems with Applications},
+  pages={123897},
+  volume={250},
+  year={2024},
+	month={9},
+	day={15},
+  publisher={Elsevier},
+  issn = {0957-4174},
+  doi = {https://doi.org/10.1016/j.eswa.2024.123897},
+  url = {https://www.sciencedirect.com/science/article/pii/S0957417424007632},
 }
 ```
 

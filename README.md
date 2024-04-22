@@ -28,19 +28,22 @@ Mokhtari, M., & Basiri, A. (2024). ROPAC: Rule OPtimized Aggregation Classifier.
 ```
 
 ```BibTeX
-@Article{mokhtari2024ropac,
-  title={ROPAC: Rule OPtimized Aggregation Classifier},
-  author={Mokhtari, Melvin and Basiri, Alireza},
-  journal={Expert Systems with Applications},
-  pages={123897},
-  volume={250},
-  year={2024},
-  month={9},
-  day={15},
-  publisher={Elsevier},
-  issn = {0957-4174},
+@Article{Mokhtari2024,
+	author = {Mokhtari, Melvin and Basiri, Alireza},
+	title = {ROPAC: Rule OPtimized Aggregation Classifier},
+	year = {2024},
+  month = {9},
+  day = {15},
+	journal = {Expert Systems with Applications},
+	volume = {250},
   doi = {https://doi.org/10.1016/j.eswa.2024.123897},
   url = {https://www.sciencedirect.com/science/article/pii/S0957417424007632},
+	publisher = {Elsevier Ltd},
+	issn = {09574174},
+	coden = {ESAPE},
+	language = {English},
+	abbrev_source_title = {Expert Sys Appl},
+	type = {Article}
 }
 ```
 

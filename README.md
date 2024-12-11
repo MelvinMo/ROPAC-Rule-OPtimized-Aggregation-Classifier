@@ -1,6 +1,6 @@
 # ROPAC: **R**ule **OP**timized **A**ggregation **C**lassifier
 
-**Authors:** [Melvin Mokhtari](https://melmo.ir/), [Alireza Basiri](https://basiri.iut.ac.ir/)
+**Authors:** [Melvin Mokhtari](https://melvinmokhtari.com/), [Alireza Basiri](https://people.iut.ac.ir/en/basiri)
 
 **Published in:** [Expert Systems with Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications), September 2024
 
